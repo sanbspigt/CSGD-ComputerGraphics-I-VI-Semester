@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSGD_CG_SEM_I", "CSGD_CG_SEM_I\CSGD_CG_SEM_I.vcxproj", "{F5EDBBC9-F537-4002-98B6-E9604DEBD738}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.CG_WindowCreation", "1.CG_WindowCreation\1.CG_WindowCreation.vcxproj", "{F5EDBBC9-F537-4002-98B6-E9604DEBD738}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.CG_TriangleRender", "2.CG_TriangleRender\2.CG_TriangleRender.vcxproj", "{63A35D49-B278-4AA0-A24F-06060FBFC6C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{F5EDBBC9-F537-4002-98B6-E9604DEBD738}.Release|x64.Build.0 = Release|x64
 		{F5EDBBC9-F537-4002-98B6-E9604DEBD738}.Release|x86.ActiveCfg = Release|Win32
 		{F5EDBBC9-F537-4002-98B6-E9604DEBD738}.Release|x86.Build.0 = Release|Win32
+		{63A35D49-B278-4AA0-A24F-06060FBFC6C8}.Debug|x64.ActiveCfg = Debug|x64
+		{63A35D49-B278-4AA0-A24F-06060FBFC6C8}.Debug|x64.Build.0 = Debug|x64
+		{63A35D49-B278-4AA0-A24F-06060FBFC6C8}.Debug|x86.ActiveCfg = Debug|Win32
+		{63A35D49-B278-4AA0-A24F-06060FBFC6C8}.Debug|x86.Build.0 = Debug|Win32
+		{63A35D49-B278-4AA0-A24F-06060FBFC6C8}.Release|x64.ActiveCfg = Release|x64
+		{63A35D49-B278-4AA0-A24F-06060FBFC6C8}.Release|x64.Build.0 = Release|x64
+		{63A35D49-B278-4AA0-A24F-06060FBFC6C8}.Release|x86.ActiveCfg = Release|Win32
+		{63A35D49-B278-4AA0-A24F-06060FBFC6C8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
